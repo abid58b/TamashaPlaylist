@@ -1,0 +1,50 @@
+name: Update JSON File
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Code ko checkout karen
+        uses: actions/checkout@v3
+
+      - name: Python ko set karen
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Zaruri packages ko install karen
+        run: |
+          python -m pip install --upgrade pip
+          pip install playwright
+
+      - name: Playwright browsers ko install karen
+        run: python -m playwright install --with-deps
+
+      - name: Python script ko run karen
+        run: |
+          wget -O tamasha.py ${{ secrets.TAMASHA_PYTHON_SCRIPT }}
+          python tamasha.py
+
+      - name: Changes ko commit karen
+        # Nayi JSON file ko repository mein commit karta hai
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/abid58b/TamashaPlaylist.git
+
+      - name: Commit and push changes
+        run: |
+          git add tamasha.json
+          git fetch origin main
+          git reset --soft origin/main
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Fetch latest data"
+            git push origin main
+          fi
