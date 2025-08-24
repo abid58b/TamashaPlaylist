@@ -1,0 +1,74 @@
+name: Generate Tamasha M3U from JSON
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  push:
+    branches:
+      - main
+    paths:
+      - 'tamasha.json' 
+
+jobs:
+  generate_playlist_from_json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Remove existing files
+      run: rm -f tamasha-live.m3u
+
+    - name: Configure Git for commits
+      run: |
+        git config --global user.name "auto-update-bot"
+        git config --global user.email "auto-update-bot@users.noreply.github.com"
+        git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/abid58b/TamashaPlaylist.git
+
+    - name: Ensure jq is installed
+      run: sudo apt-get update && sudo apt-get install -y jq
+
+    - name: Check for tamasha.json existence
+      id: check_json_file
+      run: |
+        if [ ! -f tamasha.json ]; then
+          echo "tamasha.json not found! Skipping M3U generation."
+          echo "file_found=false" >> $GITHUB_OUTPUT
+        else
+          echo "tamasha.json found. Proceeding with M3U generation."
+          echo "file_found=true" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Generate M3U from JSON and Modify URLs
+      if: steps.check_json_file.outputs.file_found == 'true'
+      run: |
+          echo "#EXTM3U" > tamasha-live.m3u
+
+          jq -r '.events[] |
+            select(.stream_url != "") |
+            "#EXTINF:-1 tvg-logo=\"" +
+            ((.image_url // "no_logo") | tostring) +
+            "\"," +
+            (.title // "Untitled Event") +
+            "\n" +
+            (.stream_url // "http://invalid.stream.url")
+            ' tamasha.json >> tamasha-live.m3u
+      
+    - name: Commit and push generated M3U file
+      if: steps.check_json_file.outputs.file_found == 'true'
+      run: |
+        git add tamasha-live.m3u
+
+        if git diff --cached --quiet; then
+          echo "No changes to tamasha-live.m3u to commit."
+        else
+          git fetch origin main
+          git reset --soft origin/main
+          git commit -m "Auto-generated: Tamasha M3U playlist from JSON data"
+          git push origin main
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
