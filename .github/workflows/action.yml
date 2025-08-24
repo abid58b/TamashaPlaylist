@@ -15,7 +15,7 @@ jobs:
       - name: Python ko set karen
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
       - name: Zaruri packages ko install karen
         run: |
@@ -27,7 +27,7 @@ jobs:
 
       - name: Python script ko run karen
         run: |
-          wget -O tamasha.py ${{ secrets.TAMASHA_PYTHON_SCRIPT }}
+          curl -L -o tamasha.py ${{ secrets.TAMASHA_PYTHON_SCRIPT }}
           python tamasha.py
 
       - name: Changes ko commit karen
