@@ -50,8 +50,7 @@ jobs:
           jq -r '.events[] |
             select(.stream_url != "") |
             "#EXTINF:-1 tvg-logo=\"" +
-            ((.image_url // "no_logo") | tostring) +
-            "\"," +
+            ((.image_url // "no_logo") | tostring) + "\" group-title=\"Tamasha-Live\"," +
             (.title // "Untitled Event") +
             "\n" +
             (.stream_url // "http://invalid.stream.url")
