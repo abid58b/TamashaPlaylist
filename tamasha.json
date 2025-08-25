@@ -2,7 +2,7 @@
     "metadata": {
         "Author": "Abid",
         "generation_date": "2025-08-25",
-        "generation_time": "07:36:59 PM",
+        "generation_time": "07:50:18 PM",
         "stats": {
             "total_streams_found": 4
         }
@@ -10,33 +10,33 @@
     "events": [
         {
             "title": "uae-t20i-triseries-2025",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1755120393242.webp?id=92",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1755120393242.webp?id=97",
             "event_url": "https://tamashaweb.com/uae-t20i-triseries-2025",
-            "stream_url": "https://cdn07khi.tamashaweb.com:8087/jazzauth/triseries25-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDc6MzY6MDIgUE0maGFzaF92YWx1ZT14K1RDL2k3NnFOcmd0S2FjcGlaVTNnPT0mdmFsaWRtaW51dGVzPTEw"
-        },
-        {
-            "title": "ghani-royal-tourney-2025",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1755866713462.webp?id=22",
-            "event_url": "https://tamashaweb.com/ghani-royal-tourney-2025",
             "stream_url": ""
         },
         {
+            "title": "ghani-royal-tourney-2025",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1755866713462.webp?id=54",
+            "event_url": "https://tamashaweb.com/ghani-royal-tourney-2025",
+            "stream_url": "https://cdn06khi.tamashaweb.com:8087/jazzauth/GRT-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDc6NDk6NDEgUE0maGFzaF92YWx1ZT1Ub2ZyZGdwamxocU1sS3JtbnY1bHRBPT0mdmFsaWRtaW51dGVzPTEw"
+        },
+        {
             "title": "ptv-sports",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=46",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=82",
             "event_url": "https://tamashaweb.com/ptv-sports",
-            "stream_url": "https://cdn02khi.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDc6MzY6MzYgUE0maGFzaF92YWx1ZT02R3ZBb0xheldMSWw3V1F5Y1hEVFV3PT0mdmFsaWRtaW51dGVzPTEw"
+            "stream_url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDc6NDk6NTMgUE0maGFzaF92YWx1ZT1XYldUOGVTSG1UaEIySVpHKzQ4bzBRPT0mdmFsaWRtaW51dGVzPTEw"
         },
         {
             "title": "eurosport",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=98",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=41",
             "event_url": "https://tamashaweb.com/eurosport",
-            "stream_url": "https://cdn21lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDc6MzY6NDQgUE0maGFzaF92YWx1ZT1XSmtVRzZ1VS9pWTNOTDN6cGQ3WFRBPT0mdmFsaWRtaW51dGVzPTEw"
+            "stream_url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDc6NTA6MDggUE0maGFzaF92YWx1ZT1haFduZ1FRSEJnZ2cyNk45dWtIT3hnPT0mdmFsaWRtaW51dGVzPTEw"
         },
         {
             "title": "ten-sports-live",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=10",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=61",
             "event_url": "https://tamashaweb.com/ten-sports-live",
-            "stream_url": "https://cdn02khi.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDc6MzY6NTYgUE0maGFzaF92YWx1ZT1pOE9mY2VrZXduUER5aGpRbndXWU1nPT0mdmFsaWRtaW51dGVzPTEw"
+            "stream_url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDc6NTA6MTYgUE0maGFzaF92YWx1ZT1ZMnZ4MVA1STlTOERtV1k5d3pCcGJBPT0mdmFsaWRtaW51dGVzPTEw"
         }
     ]
 }
