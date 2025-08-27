@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756190033793.webp?id=82" group-title="Tamasha-Live",uae-t20i-triseries-2025
-https://cdn06khi.tamashaweb.com:8087/jazzauth/triseries25-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI1IDI6Mjg6MzUgQU0maGFzaF92YWx1ZT1FUW1tWUxlZUhINmkwdTFjL1NEOXlRPT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756208063708.webp?id=55" group-title="Tamasha-Live",asia-cup-2025
-https://cdn10lhr.tamashaweb.com:8087/jazzauth/ASIACUP2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI1IDI6Mjg6NDQgQU0maGFzaF92YWx1ZT01emJrbVpQUUJMWlB6UzJmWnh6aWp3PT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1755866713462.webp?id=46" group-title="Tamasha-Live",ghani-royal-tourney-2025
-https://cdn11lhr.tamashaweb.com:8087/jazzauth/GRT-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI1IDI6Mjg6NTQgQU0maGFzaF92YWx1ZT1TN2lXbmdZNXVkUTFVY09FUGc2WUZRPT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=51" group-title="Tamasha-Live",ptv-sports
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI1IDI6Mjk6MDMgQU0maGFzaF92YWx1ZT1CSmtiTzd5UjF2RWJhVUh5QzUzL2VBPT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=65" group-title="Tamasha-Live",eurosport
-https://cdn12isb.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI1IDI6Mjk6MTMgQU0maGFzaF92YWx1ZT1NVk1JUVY3elJ4THFCZjJXQ2RzUWVBPT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=72" group-title="Tamasha-Live",ten-sports-live
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI1IDI6Mjk6MjIgQU0maGFzaF92YWx1ZT15NEpXZnZXZGJ5M1JJbDFWTkhJV053PT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756190033793.webp?id=74" group-title="Tamasha-Live",uae-t20i-triseries-2025
+https://cdn10lhr.tamashaweb.com:8087/jazzauth/triseries25-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI1IDg6MTg6MDcgQU0maGFzaF92YWx1ZT10T2ZQTTE4Vi93ZmNkNWJ1alJkdU5nPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756208063708.webp?id=43" group-title="Tamasha-Live",asia-cup-2025
+https://cdn10lhr.tamashaweb.com:8087/jazzauth/ASIACUP2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI1IDg6MTg6MTcgQU0maGFzaF92YWx1ZT15ZlZycE1MWkc3eVd3Q3ZhUVdjdVNRPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1755866713462.webp?id=34" group-title="Tamasha-Live",ghani-royal-tourney-2025
+https://cdn10lhr.tamashaweb.com:8087/jazzauth/GRT-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI1IDg6MTg6MjggQU0maGFzaF92YWx1ZT1QYi83UkY2SDVVQUhyanV6VDJpdjJBPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=38" group-title="Tamasha-Live",ptv-sports
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI1IDg6MTg6MzggQU0maGFzaF92YWx1ZT1XNGRKU0RCRC9NYkthVW5lZjFOZ0l3PT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=91" group-title="Tamasha-Live",eurosport
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI1IDg6MTg6NDggQU0maGFzaF92YWx1ZT1LN1RBMnBsNUwzd2hRcEFrNE9KdElRPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=76" group-title="Tamasha-Live",ten-sports-live
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDI1IDg6MTg6NTcgQU0maGFzaF92YWx1ZT1CMTlkSEgrc2ZtWll6SFFGT1VMU2p3PT0mdmFsaWRtaW51dGVzPTEw
