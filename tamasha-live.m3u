@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756358441215.webp?id=98" group-title="Tamasha-Live",uae-t20i-triseries-2025
-https://cdn10lhr.tamashaweb.com:8087/jazzauth/triseries25-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDI1IDk6MzQ6NDQgQU0maGFzaF92YWx1ZT1GRnRWem55ZE4yR3dhMnVMdUV6UXZBPT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756208063708.webp?id=52" group-title="Tamasha-Live",asia-cup-2025
-https://cdn11lhr.tamashaweb.com:8087/jazzauth/ASIACUP2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDI1IDk6MzQ6NTQgQU0maGFzaF92YWx1ZT1CRjdZV1oyS21uRFd0MzdFSlhHVnFRPT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1755866713462.webp?id=91" group-title="Tamasha-Live",ghani-royal-tourney-2025
-https://cdn06khi.tamashaweb.com:8087/jazzauth/GRT-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDI1IDk6MzU6MDQgQU0maGFzaF92YWx1ZT1VNkxTeWtwV04yOEZQYmpjSzBMbk1RPT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=79" group-title="Tamasha-Live",ptv-sports
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDI1IDk6MzU6MTQgQU0maGFzaF92YWx1ZT0ycXB1bERoZHB1OFZSTFRmNG1nd3V3PT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=49" group-title="Tamasha-Live",eurosport
-https://cdn05khi.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDI1IDk6MzU6MjMgQU0maGFzaF92YWx1ZT1qQ2crd04ybUR0bU1IS0E3ZVRQRkpBPT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=79" group-title="Tamasha-Live",ten-sports-live
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDI1IDk6MzU6MzMgQU0maGFzaF92YWx1ZT1XOVVkYmRId3lSUG5UeHh4ckNzSjVBPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756358441215.webp?id=24" group-title="Tamasha-Live",uae-t20i-triseries-2025
+https://cdn08khi.tamashaweb.com:8087/jazzauth/triseries25-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDI1IDM6MzM6MTMgUE0maGFzaF92YWx1ZT1rVDh4bFVrOENPV2RuNjNCWGdTZ1d3PT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756208063708.webp?id=37" group-title="Tamasha-Live",asia-cup-2025
+https://cdn10lhr.tamashaweb.com:8087/jazzauth/ASIACUP2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDI1IDM6MzM6MjUgUE0maGFzaF92YWx1ZT0rRTJRQUZWTkxwUndqNW5vR1JzTnFnPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756384674819.webp?id=87" group-title="Tamasha-Live",zimbabwe-vs-srilanka-odit20-2025
+https://cdn10lhr.tamashaweb.com:8087/jazzauth/Zim-v-Sri-25-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDI1IDM6MzM6MzYgUE0maGFzaF92YWx1ZT0yMHN4bFZ0RXIvTTVNdmFqQVJ4OUt3PT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=74" group-title="Tamasha-Live",ptv-sports
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDI1IDM6MzM6NDcgUE0maGFzaF92YWx1ZT1lZUxOdGNFcGF1bTdub3QxU3cvaThRPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=16" group-title="Tamasha-Live",eurosport
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDI1IDM6MzM6NTcgUE0maGFzaF92YWx1ZT1IVnlIM2Fsb0cwakQwRDUzeGhKMEZ3PT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=44" group-title="Tamasha-Live",ten-sports-live
+https://cdn05khi.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDI1IDM6MzQ6MDggUE0maGFzaF92YWx1ZT0rR01RNUVCTnRkOTFJeGllbnhydTBBPT0mdmFsaWRtaW51dGVzPTEw
