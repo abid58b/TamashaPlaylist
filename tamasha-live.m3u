@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756582329870.webp?id=84" group-title="Tamasha-Live",uae-t20i-triseries-2025
-https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/Tmshsrtmain.m3u8?timeshift=1&start=1756737000&uuid=FFAAFFFF-e002-731b-536a-1be12c9b0b8f
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756208063708.webp?id=59" group-title="Tamasha-Live",asia-cup-2025
-https://cdn06khi.tamashaweb.com:8087/YlUHeDQb7a/ASIACUP2025-abr/playlist.m3u8?uuid=FFAAFFFF-c5f3-f307-7142-4d45fe1adeae
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756712637178.webp?id=79" group-title="Tamasha-Live",malik-sher-mawan-memorial-tapeball-tournament
-https://cdn20lhr.tamashaweb.com:8087/YlUHeDQb7a/MSM-abr/playlist.m3u8?uuid=FFAAFFFF-d521-6e75-2a59-fbfed6ba54a6
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=67" group-title="Tamasha-Live",ptv-sports
-https://cdn12isb.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjUgMjozMzoyOCBQTSZoYXNoX3ZhbHVlPTNLMDlxajZpbFVHeG5SV0FRUVFmZGc9PSZ2YWxpZG1pbnV0ZXM9MTA=
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=69" group-title="Tamasha-Live",eurosport
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjUgMjozMzozNCBQTSZoYXNoX3ZhbHVlPU1GNDJHSW1idEJYYnZERS9GZE8vYnc9PSZ2YWxpZG1pbnV0ZXM9MTA=
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=53" group-title="Tamasha-Live",ten-sports-live
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjUgMjozMzo0MSBQTSZoYXNoX3ZhbHVlPWF1ZUtKWmVOaldEV2JaTlZxUUFobEE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756582329870.webp?id=44" group-title="Tamasha-Live",uae-t20i-triseries-2025
+https://cdn06khi.tamashaweb.com:8087/jazzauth/triseries25-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjUgMTA6Mzk6NDkgQU0maGFzaF92YWx1ZT1mNE53TDFXSW90aWk3LzZGQW1URVB3PT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756208063708.webp?id=30" group-title="Tamasha-Live",asia-cup-2025
+https://cdn06khi.tamashaweb.com:8087/jazzauth/ASIACUP2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjUgMTA6Mzk6NTUgQU0maGFzaF92YWx1ZT0zZ3ppSzFVcWNaYW1hZ0J4ZW54VFJBPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756712637178.webp?id=16" group-title="Tamasha-Live",malik-sher-mawan-memorial-tapeball-tournament
+https://cdn06khi.tamashaweb.com:8087/jazzauth/MSM-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjUgMTA6NDA6MDYgQU0maGFzaF92YWx1ZT1yQTBlY0FuRmJybHBlY3lOZ29jak5BPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=60" group-title="Tamasha-Live",ptv-sports
+https://cdn02khi.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjUgMTA6NDA6MTYgQU0maGFzaF92YWx1ZT1uQjdRZDROK2M2UTRZRGY0ZGhwMklRPT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=30" group-title="Tamasha-Live",eurosport
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjUgMTA6NDA6MzEgQU0maGFzaF92YWx1ZT14ZzdiYlBIZDZYcFU2NmxKMWUzVHV3PT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=80" group-title="Tamasha-Live",ten-sports-live
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjUgMTA6NDA6MzggQU0maGFzaF92YWx1ZT02TUdRb1FIZEtDdGRhT0h5TmJURHlBPT0mdmFsaWRtaW51dGVzPTEw
