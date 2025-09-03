@@ -2,53 +2,53 @@
     "metadata": {
         "Author": "Abid",
         "generation_date": "2025-09-03",
-        "generation_time": "06:48:13 AM",
+        "generation_time": "06:57:01 AM",
         "stats": {
-            "total_streams_found": 5
+            "total_streams_found": 6
         }
     },
     "events": [
         {
             "title": "uae-t20i-triseries-2025",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756839751796.webp?id=20",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756839751796.webp?id=35",
             "event_url": "https://tamashaweb.com/uae-t20i-triseries-2025",
-            "stream_url": ""
+            "stream_url": "https://cdn06khi.tamashaweb.com:8087/jazzauth/triseries25-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjUgNjo1NTo0NyBBTSZoYXNoX3ZhbHVlPUtiUU80L3R1UkE4NUU2dFNOYXgrY1E9PSZ2YWxpZG1pbnV0ZXM9MTA="
         },
         {
             "title": "asia-cup-2025",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756208063708.webp?id=26",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756208063708.webp?id=57",
             "event_url": "https://tamashaweb.com/asia-cup-2025",
-            "stream_url": "https://cdn12lhr.tamashaweb.com:8087/jazzauth/ASIACUP2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjUgNjo0NzoxMSBBTSZoYXNoX3ZhbHVlPUVvdWNNZ0pJOFVrc3pubWRTc3JIYnc9PSZ2YWxpZG1pbnV0ZXM9MTA="
+            "stream_url": "https://cdn11lhr.tamashaweb.com:8087/jazzauth/ASIACUP2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjUgNjo1NTo1MyBBTSZoYXNoX3ZhbHVlPTB1WUxmT0FLT3dKTHk0V0NJM1puckE9PSZ2YWxpZG1pbnV0ZXM9MTA="
         },
         {
             "title": "zimbabwe-vs-srilanka-odit20-2025",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756878889740.webp?id=70",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756878889740.webp?id=76",
             "event_url": "https://tamashaweb.com/zimbabwe-vs-srilanka-odit20-2025",
             "stream_url": ""
         },
         {
             "title": "malik-sher-mawan-memorial-tapeball-tournament",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756712637178.webp?id=25",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1756712637178.webp?id=84",
             "event_url": "https://tamashaweb.com/malik-sher-mawan-memorial-tapeball-tournament",
-            "stream_url": "https://cdn11lhr.tamashaweb.com:8087/jazzauth/MSM-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjUgNjo0NzozOSBBTSZoYXNoX3ZhbHVlPTczNlAwSm1nRlV0V0FFSE12M2J0Znc9PSZ2YWxpZG1pbnV0ZXM9MTA="
+            "stream_url": "https://cdn10lhr.tamashaweb.com:8087/jazzauth/MSM-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjUgNjo1NjoyNCBBTSZoYXNoX3ZhbHVlPWxUQ2RpRGpWWTFXMStKTUQ3UXVmY1E9PSZ2YWxpZG1pbnV0ZXM9MTA="
         },
         {
             "title": "ptv-sports",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=10",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=27",
             "event_url": "https://tamashaweb.com/ptv-sports",
-            "stream_url": "https://cdn02khi.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjUgNjo0Nzo1NCBBTSZoYXNoX3ZhbHVlPTVldzR4L1ZCL3dFV0g0M0FRd1JoS3c9PSZ2YWxpZG1pbnV0ZXM9MTA="
+            "stream_url": "https://cdn02khi.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjUgNjo1NjozNiBBTSZoYXNoX3ZhbHVlPTJEZlY1cWVQemRJTC9nSnBiYWhYb1E9PSZ2YWxpZG1pbnV0ZXM9MTA="
         },
         {
             "title": "eurosport",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=40",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=86",
             "event_url": "https://tamashaweb.com/eurosport",
-            "stream_url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjUgNjo0ODowMCBBTSZoYXNoX3ZhbHVlPStnRnFoVDZkdUhVdXMvL2F1M0hyN3c9PSZ2YWxpZG1pbnV0ZXM9MTA="
+            "stream_url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjUgNjo1Njo0OCBBTSZoYXNoX3ZhbHVlPTNlMVZ3U0ZsdExMTWdPVUhPbitMZFE9PSZ2YWxpZG1pbnV0ZXM9MTA="
         },
         {
             "title": "ten-sports-live",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=34",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=51",
             "event_url": "https://tamashaweb.com/ten-sports-live",
-            "stream_url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjUgNjo0ODoxMCBBTSZoYXNoX3ZhbHVlPWZmZWkxT2phNDFrRUdiZWI1aTVyV0E9PSZ2YWxpZG1pbnV0ZXM9MTA="
+            "stream_url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjUgNjo1NzowMyBBTSZoYXNoX3ZhbHVlPW1TMXh5ZUFMS1JicHRDZmwwSUhla3c9PSZ2YWxpZG1pbnV0ZXM9MTA="
         }
     ]
 }
