@@ -2,9 +2,9 @@
     "metadata": {
         "Author": "Abid",
         "generation_date": "2025-09-27",
-        "generation_time": "11:28:32 PM",
+        "generation_time": "11:38:00 PM",
         "stats": {
-            "total_streams_found": 4
+            "total_streams_found": 5
         }
     },
     "events": [
@@ -12,31 +12,31 @@
             "title": "asia-cup-2025",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1758963367919.webp?id=67",
             "event_url": "https://tamashaweb.com/asia-cup-2025",
-            "stream_url": "https://cdn01isb-n.tamashaweb.com:8087/jazzauth/ASIACUP2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDI1IDExOjI3OjU1IFBNJmhhc2hfdmFsdWU9TnNNaWhsZ2pHbzBVZDcvYTlQUHZWdz09JnZhbGlkbWludXRlcz02MA%3D%3D"
+            "stream_url": "https://cdn11lhr.tamashaweb.com:8087/jazzauth/ASIACUP2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDI1IDExOjM3OjMyIFBNJmhhc2hfdmFsdWU9UTdvc1gvcE84SUhPRTVsTXRocDI4UT09JnZhbGlkbWludXRlcz02MA%3D%3D"
         },
         {
             "title": "icc-womens-odi-world-cup-2025",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1758878238189.webp?id=33",
             "event_url": "https://tamashaweb.com/icc-womens-odi-world-cup-2025",
-            "stream_url": ""
+            "stream_url": "https://cdn12lhr.tamashaweb.com:8087/jazzauth/WOMENWC2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDI1IDExOjM3OjM5IFBNJmhhc2hfdmFsdWU9NFExZHpaTjQ2cjVhSlJvNWJpQjYrZz09JnZhbGlkbWludXRlcz02MA%3D%3D"
         },
         {
             "title": "ptv-sports",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=10",
             "event_url": "https://tamashaweb.com/ptv-sports",
-            "stream_url": "https://cdn21lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDI1IDExOjI4OjE4IFBNJmhhc2hfdmFsdWU9MG5PZWxWN05Vc3lPSkZDdkN1d1lHQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8"
+            "stream_url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDI1IDExOjM3OjQ1IFBNJmhhc2hfdmFsdWU9M1N6M3cxOWo4SWZTYWpTQ3JTbUU2UT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8"
         },
         {
             "title": "eurosport",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=90",
             "event_url": "https://tamashaweb.com/eurosport",
-            "stream_url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDI1IDExOjI4OjI0IFBNJmhhc2hfdmFsdWU9UGtCb3daUFRoRXNrVUR5Yi9Gd2J0QT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8"
+            "stream_url": "https://cdn24lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDI1IDExOjM3OjUyIFBNJmhhc2hfdmFsdWU9eEEzYnc1WDlacEo3bEdHNG9JMzEzdz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8"
         },
         {
             "title": "ten-sports-live",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=39",
             "event_url": "https://tamashaweb.com/ten-sports-live",
-            "stream_url": "https://cdn02khi.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDI1IDExOjI4OjMwIFBNJmhhc2hfdmFsdWU9R3J6NVlwVC92dUxPS3RSMDRRckN0dz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Tensports-abr/playlist.m3u8"
+            "stream_url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDI1IDExOjM3OjU4IFBNJmhhc2hfdmFsdWU9ODNyTk9uWHFxKzFIUVIvckRKNlBZUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Tensports-abr/playlist.m3u8"
         }
     ]
 }
