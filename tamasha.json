@@ -2,41 +2,41 @@
     "metadata": {
         "Author": "Abid",
         "generation_date": "2025-10-03",
-        "generation_time": "01:01:55 PM",
+        "generation_time": "01:32:22 PM",
         "stats": {
-            "total_streams_found": 3
+            "total_streams_found": 5
         }
     },
     "events": [
         {
             "title": "icc-womens-odi-world-cup-2025",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1759427586485.webp?id=66",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1759427586485.webp?id=14",
             "event_url": "https://tamashaweb.com/icc-womens-odi-world-cup-2025",
-            "stream_url": "https://cdn04isb-n.tamashaweb.com:8087/jazzauth/WOMENWC2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDI1IDE6MDE6MDEgUE0maGFzaF92YWx1ZT05OGFVdnJqMWJaemJWWW5iYUtYczBnPT0mdmFsaWRtaW51dGVzPTYw"
+            "stream_url": "https://cdn01isb-n.tamashaweb.com:8087/jazzauth/WOMENWC2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDI1IDE6MzE6NDYgUE0maGFzaF92YWx1ZT12b2JRSTFBSFo0S05rZzIxYjU0dUpRPT0mdmFsaWRtaW51dGVzPTYw"
         },
         {
             "title": "ghani-royal-tourney-2025",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1759086542562.webp?id=52",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1759086542562.webp?id=98",
             "event_url": "https://tamashaweb.com/ghani-royal-tourney-2025",
-            "stream_url": ""
+            "stream_url": "https://cdn03isb-n.tamashaweb.com:8087/jazzauth/GRT-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDI1IDE6MzE6NDkgUE0maGFzaF92YWx1ZT05VGNnNE10MklsSlFyOWo4TFBFazhBPT0mdmFsaWRtaW51dGVzPTYw"
         },
         {
             "title": "ptv-sports",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=17",
             "event_url": "https://tamashaweb.com/ptv-sports",
-            "stream_url": "https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDI1IDE6MDE6MjYgUE0maGFzaF92YWx1ZT1CZ2oza3FvY05HRmdsSnVvRVdLa3p3PT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVSports-abr/playlist.m3u8"
+            "stream_url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDI1IDE6MzI6MDYgUE0maGFzaF92YWx1ZT0vUmd3YjdKbGRTcmtBbHB4V1NoZVRRPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVSports-abr/playlist.m3u8"
         },
         {
             "title": "eurosport",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=96",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=15",
             "event_url": "https://tamashaweb.com/eurosport",
-            "stream_url": ""
+            "stream_url": "https://cdn24lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDI1IDE6MzI6MDkgUE0maGFzaF92YWx1ZT1rZXhIWk1tMVVOdjhrV3A0ZGtyYXZRPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Eurosport-abr/playlist.m3u8"
         },
         {
             "title": "ten-sports-live",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=51",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=48",
             "event_url": "https://tamashaweb.com/ten-sports-live",
-            "stream_url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDI1IDE6MDE6NTMgUE0maGFzaF92YWx1ZT01Q3lQS0JTOGRFN3d4UFU1VWRuYXdRPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Tensports-abr/playlist.m3u8"
+            "stream_url": "https://cdn02khi.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDI1IDE6MzI6MjAgUE0maGFzaF92YWx1ZT1CWGZlU3hNS3J2TjQrc1BpVkJ2QnpBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Tensports-abr/playlist.m3u8"
         }
     ]
 }
