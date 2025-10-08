@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1759865627148.webp?id=66" group-title="Tamasha-Live",icc-womens-odi-world-cup-2025
-https://cdn06khi.tamashaweb.com:8087/jazzauth/WOMENWC2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI1IDg6MzQ6NDIgUE0maGFzaF92YWx1ZT1mQkxudlpqRjVJTUdLZ2h0Qng3M2ZBPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1759903674797.webp?id=25" group-title="Tamasha-Live",women-u19-t20-tournament-2025
-https://cdn06khi.tamashaweb.com:8087/jazzauth/U19W-Final-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI1IDg6MzQ6NTIgUE0maGFzaF92YWx1ZT1QYjZqeWdXY1pLek81R1ZQbENoL3BnPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=73" group-title="Tamasha-Live",ptv-sports
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI1IDg6MzU6MDQgUE0maGFzaF92YWx1ZT05cStDbGY4OHBDQTZwY3VIdWY1RVR3PT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVSports-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=49" group-title="Tamasha-Live",eurosport
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI1IDg6MzU6MTUgUE0maGFzaF92YWx1ZT1leTd6Z2s1K01jb1l2ZE5meEhFTVFBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Eurosport-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=23" group-title="Tamasha-Live",ten-sports-live
-https://cdn12isb.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI1IDg6MzU6MjYgUE0maGFzaF92YWx1ZT1uQ3dzVjRPdGs0YUNSSklzbm90OVhBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Tensports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1759865627148.webp?id=37" group-title="Tamasha-Live",icc-womens-odi-world-cup-2025
+https://cdn10lhr.tamashaweb.com:8087/jazzauth/WOMENWC2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI1IDk6Mjg6MzMgUE0maGFzaF92YWx1ZT1ubEt1ZllIYmNaRVhsRVdRTE9FbEhBPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1759903674797.webp?id=52" group-title="Tamasha-Live",women-u19-t20-tournament-2025
+https://cdn01isb-n.tamashaweb.com:8087/jazzauth/U19W-Final-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI1IDk6Mjg6NDEgUE0maGFzaF92YWx1ZT1IdklpQWdDdlpHT2xUT2pUVVJWc1J3PT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=22" group-title="Tamasha-Live",ptv-sports
+https://cdn12isb.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI1IDk6Mjg6NDggUE0maGFzaF92YWx1ZT01eThmVGtzWlJVaFFhNzA1d3QrTURRPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=54" group-title="Tamasha-Live",eurosport
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI1IDk6Mjg6NTkgUE0maGFzaF92YWx1ZT1vTmlWQnFhZVdJRjFnbXUxY0ZqS29nPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Eurosport-abr/playlist.m3u8
