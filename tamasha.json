@@ -2,9 +2,9 @@
     "metadata": {
         "Author": "Abid",
         "generation_date": "2025-10-22",
-        "generation_time": "08:51:12 AM",
+        "generation_time": "09:21:29 AM",
         "stats": {
-            "total_streams_found": 6
+            "total_streams_found": 2
         }
     },
     "events": [
@@ -12,37 +12,37 @@
             "title": "pakistan-vs-south-africa-testodit20i-series",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1760592844039.webp?id=55",
             "event_url": "https://tamashaweb.com/pakistan-vs-south-africa-testodit20i-series",
-            "stream_url": "https://cdn01khi-n.tamashaweb.com:8087/jazzauth/PKvSA-TOT-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyNSA4OjUwOjIyIEFNJmhhc2hfdmFsdWU9cXp0c2hkc0lzY3ZiOHRDaWo3d3Q0dz09JnZhbGlkbWludXRlcz02MA%3D%3D"
+            "stream_url": ""
         },
         {
             "title": "icc-womens-odi-world-cup-2025",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1761068981479.webp?id=76",
             "event_url": "https://tamashaweb.com/icc-womens-odi-world-cup-2025",
-            "stream_url": "https://cdn02khi-n.tamashaweb.com:8087/jazzauth/WOMENWC2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyNSA4OjUwOjMxIEFNJmhhc2hfdmFsdWU9c1hoL2tBYkxzVmI1WGkrWTZRelJKUT09JnZhbGlkbWludXRlcz02MA%3D%3D"
+            "stream_url": "https://cdn13lhr.tamashaweb.com:8087/jazzauth/WOMENWC2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyNSA5OjE5OjQ4IEFNJmhhc2hfdmFsdWU9UGtsWFhxenM2MDl1bnF6K0lMSG1zQT09JnZhbGlkbWludXRlcz02MA%3D%3D"
         },
         {
             "title": "afghanistan-vs-zimbabwe-testt20i-series-2025",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1760793080510.webp?id=84",
             "event_url": "https://tamashaweb.com/afghanistan-vs-zimbabwe-testt20i-series-2025",
-            "stream_url": "https://cdn03fsd-n.tamashaweb.com:8087/jazzauth/AFGVSZIM-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyNSA4OjUwOjQwIEFNJmhhc2hfdmFsdWU9ZHBXYU45L0FNZUxScCtsck40bzB2dz09JnZhbGlkbWludXRlcz02MA%3D%3D"
+            "stream_url": ""
         },
         {
             "title": "ptv-sports",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=100",
             "event_url": "https://tamashaweb.com/ptv-sports",
-            "stream_url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyNSA4OjUwOjUxIEFNJmhhc2hfdmFsdWU9SUQ0cTZXYzhQUGxOdW1sRU41UTNmQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8"
+            "stream_url": ""
         },
         {
             "title": "eurosport",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=43",
             "event_url": "https://tamashaweb.com/eurosport",
-            "stream_url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyNSA4OjUxOjAxIEFNJmhhc2hfdmFsdWU9MmRyNUxuSnd6aEVVK3RkOUNSRXJ3UT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8"
+            "stream_url": ""
         },
         {
             "title": "ten-sports-live",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=38",
             "event_url": "https://tamashaweb.com/ten-sports-live",
-            "stream_url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyNSA4OjUxOjEwIEFNJmhhc2hfdmFsdWU9MDBDKzVxQXEyS0UwL090VEpCYnNkZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Tensports-abr/playlist.m3u8"
+            "stream_url": "https://cdn24lhr.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyNSA5OjIxOjI3IEFNJmhhc2hfdmFsdWU9aWl1Q1hmcHNNcGNnYTkvcHZmMTdBQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Tensports-abr/playlist.m3u8"
         }
     ]
 }
