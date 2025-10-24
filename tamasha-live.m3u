@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1760510648674.webp?id=31" group-title="Tamasha-Live",icc-womens-odi-world-cup-2025b
-https://cdn01isb-n.tamashaweb.com:8087/jazzauth/WOMENWC2025-B-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNSA5OjM3OjIwIFBNJmhhc2hfdmFsdWU9SUcxcE9VSHVKNTA0U1pTQWl4a2QzZz09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1761216825558.webp?id=93" group-title="Tamasha-Live",pakistan-vs-south-africa-testodit20i-series
-https://cdn10lhr.tamashaweb.com:8087/jazzauth/PKvSA-TOT-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNSA5OjM3OjI5IFBNJmhhc2hfdmFsdWU9WkRia2xxT3RSTDhIWkM3SEEzODlYZz09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1761334507561.webp?id=34" group-title="Tamasha-Live",icc-womens-odi-world-cup-2025
-https://cdn03isb-n.tamashaweb.com:8087/jazzauth/WOMENWC2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNSA5OjM3OjM5IFBNJmhhc2hfdmFsdWU9L25YOXhxMTlhKzc4MVpBbkp4bks0dz09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1761230756726.webp?id=74" group-title="Tamasha-Live",afghanistan-vs-zimbabwe-testt20i-series-2025
-https://cdn02isb-n.tamashaweb.com:8087/jazzauth/AFGVSZIM-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNSA5OjM3OjQ4IFBNJmhhc2hfdmFsdWU9K2xHczQ0S1FkSDdoeDJjNm5QUERXQT09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1761290215327.webp?id=48" group-title="Tamasha-Live",baaz-takedown-2025
-https://cdn11lhr.tamashaweb.com:8087/jazzauth/BAAZTAKE-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNSA5OjM3OjU3IFBNJmhhc2hfdmFsdWU9WjB1MGZta1QySDk5dEo2WHZWT04rdz09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1761290509265.webp?id=97" group-title="Tamasha-Live",7th-national-muay-thai-championship-2025
-https://cdn03isb-n.tamashaweb.com:8087/jazzauth/MUAYTHAICHAMP-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNSA5OjM4OjA3IFBNJmhhc2hfdmFsdWU9VUhhYVpGUEtFaGlQczRZWUNnZm1CZz09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=50" group-title="Tamasha-Live",ptv-sports
-https://cdn12isb.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNSA5OjM4OjE2IFBNJmhhc2hfdmFsdWU9N3dtcFBkcmJucnRPVkQvTnJ6akhNdz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=17" group-title="Tamasha-Live",eurosport
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNSA5OjM4OjI2IFBNJmhhc2hfdmFsdWU9ajVkeXdOeEZpN1VQTVdFK1huUEJndz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=60" group-title="Tamasha-Live",ten-sports-live
-https://cdn12isb.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNSA5OjM4OjM2IFBNJmhhc2hfdmFsdWU9d043ZHU1RnZqMmIyWUJ2MmkyYldxUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Tensports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1761216825558.webp?id=69" group-title="Tamasha-Live",pakistan-vs-south-africa-testodit20i-series
+https://cdn10lhr.tamashaweb.com:8087/jazzauth/PKvSA-TOT-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNSA4OjM1OjQwIFBNJmhhc2hfdmFsdWU9SE1NOEh1ektOMUtvWDkvQ2h5Y1ZWZz09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1761250401018.webp?id=96" group-title="Tamasha-Live",icc-womens-odi-world-cup-2025
+https://cdn08khi.tamashaweb.com:8087/jazzauth/WOMENWC2025-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNSA4OjM1OjUxIFBNJmhhc2hfdmFsdWU9RFc1Qm5PaEp3eWtiV0ZEdmIrZzA4Zz09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1761290215327.webp?id=20" group-title="Tamasha-Live",baaz-takedown-2025
+https://cdn06khi.tamashaweb.com:8087/jazzauth/BAAZTAKE-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNSA4OjM2OjIxIFBNJmhhc2hfdmFsdWU9bFZMS29IL21TelpLSnZRcTh2WGZEdz09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1761290509265.webp?id=12" group-title="Tamasha-Live",7th-national-muay-thai-championship-2025
+https://cdn08khi.tamashaweb.com:8087/jazzauth/MUAYTHAICHAMP-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNSA4OjM2OjMzIFBNJmhhc2hfdmFsdWU9NC83UDg5NkNwVXgxNGJYNlRIaEZQZz09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=77" group-title="Tamasha-Live",ptv-sports
+https://cdn12isb.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNSA4OjM2OjQ0IFBNJmhhc2hfdmFsdWU9ZVlvT1VUREJjK2Vwc043RFpsRDZtdz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=14" group-title="Tamasha-Live",eurosport
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNSA4OjM2OjU0IFBNJmhhc2hfdmFsdWU9NkdCYnZFRUgwajRoUExSMFZsaFd5Zz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=85" group-title="Tamasha-Live",ten-sports-live
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyNSA4OjM3OjA0IFBNJmhhc2hfdmFsdWU9c0taczJHM0pqK1lMUFB5RXdpN2RyZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Tensports-abr/playlist.m3u8
