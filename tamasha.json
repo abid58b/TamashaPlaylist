@@ -2,41 +2,41 @@
     "metadata": {
         "Author": "Abid",
         "generation_date": "2025-11-07",
-        "generation_time": "04:00:49 AM",
+        "generation_time": "04:26:29 AM",
         "stats": {
-            "total_streams_found": 5
+            "total_streams_found": 1
         }
     },
     "events": [
         {
             "title": "pakistan-vs-south-africa-testodit20i-series",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1762452085920.webp?id=77",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1762452085920.webp?id=45",
             "event_url": "https://tamashaweb.com/pakistan-vs-south-africa-testodit20i-series",
-            "stream_url": "https://cdn03isb-n.tamashaweb.com:8087/jazzauth/PKvSA-TOT-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI1IDQ6MDA6MDEgQU0maGFzaF92YWx1ZT0vS0F3dG93VktIdHBTY3U1cTlmbmx3PT0mdmFsaWRtaW51dGVzPTYw"
+            "stream_url": ""
         },
         {
             "title": "guard-breaker-2025-tekken-dojo-96",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1762338775952.webp?id=19",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1762338775952.webp?id=82",
             "event_url": "https://tamashaweb.com/guard-breaker-2025-tekken-dojo-96",
-            "stream_url": "https://cdn16lhr.tamashaweb.com:8087/jazzauth/Guard-Breaker-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI1IDQ6MDA6MTIgQU0maGFzaF92YWx1ZT1ZMUFxK3VES05WM2lZRkNyRlBUSmxnPT0mdmFsaWRtaW51dGVzPTYw"
+            "stream_url": ""
         },
         {
             "title": "ptv-sports",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=31",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=10",
             "event_url": "https://tamashaweb.com/ptv-sports",
-            "stream_url": "https://cdn12isb.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI1IDQ6MDA6MjQgQU0maGFzaF92YWx1ZT1sZXdLbTg1bzJOa0tuVlZxT1p4UFRRPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVSports-abr/playlist.m3u8"
+            "stream_url": ""
         },
         {
             "title": "eurosport",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=13",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=27",
             "event_url": "https://tamashaweb.com/eurosport",
-            "stream_url": "https://cdn21lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI1IDQ6MDA6MzUgQU0maGFzaF92YWx1ZT1uVzZQbU1XYXZYZHNMWkJLMExJY2R3PT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Eurosport-abr/playlist.m3u8"
+            "stream_url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI1IDQ6MjU6NTcgQU0maGFzaF92YWx1ZT1PQm0yNEVITG81N1d2VEdiYmx5aWZnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Eurosport-abr/playlist.m3u8"
         },
         {
             "title": "ten-sports-live",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=78",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=41",
             "event_url": "https://tamashaweb.com/ten-sports-live",
-            "stream_url": "https://cdn21lhr.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI1IDQ6MDA6NDcgQU0maGFzaF92YWx1ZT1vd2I0TnlzR29Xa3p0ckpjYVVkczd3PT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Tensports-abr/playlist.m3u8"
+            "stream_url": ""
         }
     ]
 }
