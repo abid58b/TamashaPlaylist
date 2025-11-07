@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1762452085920.webp?id=26" group-title="Tamasha-Live",pakistan-vs-south-africa-testodit20i-series
-https://cdn11lhr.tamashaweb.com:8087/jazzauth/PKvSA-TOT-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI1IDc6NDI6MTEgQU0maGFzaF92YWx1ZT1ZVzNiSmlscmlqMHIyVjlXbkJDUTJBPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1762338775952.webp?id=84" group-title="Tamasha-Live",guard-breaker-2025-tekken-dojo-96
-https://cdn05khi-n.tamashaweb.com:8087/jazzauth/Guard-Breaker-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI1IDc6NDI6MjQgQU0maGFzaF92YWx1ZT1DUkd1ZytFSXIwOXI3TkpGQnAwTDBRPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=63" group-title="Tamasha-Live",ptv-sports
-https://cdn12isb.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI1IDc6NDI6MzUgQU0maGFzaF92YWx1ZT1BazdkV3RMRk5vNmRWK0FvdU5KN3dRPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVSports-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=62" group-title="Tamasha-Live",eurosport
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI1IDc6NDI6NDYgQU0maGFzaF92YWx1ZT11bndUT3NFM2ZwN245VUgySHBrY3pnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Eurosport-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=63" group-title="Tamasha-Live",ten-sports-live
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI1IDc6NDI6NTcgQU0maGFzaF92YWx1ZT1DaVE1Q3RqVU02SkZVRWRpUFVNWktRPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Tensports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1762452085920.webp?id=81" group-title="Tamasha-Live",pakistan-vs-south-africa-testodit20i-series
+https://cdn17lhr.tamashaweb.com:8087/jazzauth/PKvSA-TOT-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI1IDg6NDc6MzkgQU0maGFzaF92YWx1ZT1oQmlwNTRKajRKS0c5R3pVdTdyTTFBPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1762338775952.webp?id=45" group-title="Tamasha-Live",guard-breaker-2025-tekken-dojo-96
+https://cdn15lhr.tamashaweb.com:8087/jazzauth/Guard-Breaker-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI1IDg6NDc6NDkgQU0maGFzaF92YWx1ZT1ON3lEcnhuemxjUGVPdTNSNTFQb013PT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=55" group-title="Tamasha-Live",ptv-sports
+https://cdn02khi.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI1IDg6NDc6NTkgQU0maGFzaF92YWx1ZT1KV0lxNnpLVnJFekxZYVpVR0I3cWdRPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=44" group-title="Tamasha-Live",eurosport
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI1IDg6NDg6MDkgQU0maGFzaF92YWx1ZT1VdmhUbnRBY1JqVStNaFNnY1NHWnFBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Eurosport-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=67" group-title="Tamasha-Live",ten-sports-live
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI1IDg6NDg6MTggQU0maGFzaF92YWx1ZT1SMGJBTFBGL3VObzNjeGk5dVZWSkVRPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Tensports-abr/playlist.m3u8
