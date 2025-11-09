@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1762614933443.webp?id=52" group-title="Tamasha-Live",pakistan-vs-sri-lanka-odi-series-2025
-https://cdn01isb-n.tamashaweb.com:8087/jazzauth/PKvSL-ODI25-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI1IDg6NTI6MTYgQU0maGFzaF92YWx1ZT0xZ3F4MVhObmJUTkMxRHhuMTNWYzl3PT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1762338775952.webp?id=16" group-title="Tamasha-Live",guard-breaker-2025-tekken-dojo-96
-https://cdn02fsd-n.tamashaweb.com:8087/jazzauth/Guard-Breaker-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI1IDg6NTI6MjUgQU0maGFzaF92YWx1ZT13bkkrR3RZSUJLb0VKc2VXUzJkZXRRPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=14" group-title="Tamasha-Live",ptv-sports
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI1IDg6NTI6MzQgQU0maGFzaF92YWx1ZT10WmJWUy9SVTRSOWF0aDZ3RzRjd2dnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVSports-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=56" group-title="Tamasha-Live",eurosport
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI1IDg6NTI6NDQgQU0maGFzaF92YWx1ZT01Q3A3d0xFYit0Y2RyWmNmcTdHdjFBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Eurosport-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=33" group-title="Tamasha-Live",ten-sports-live
-https://cdn12isb.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI1IDg6NTI6NTQgQU0maGFzaF92YWx1ZT01RXNmWjRyS1lhWWlsMllkZGpzUnBnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Tensports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1762614933443.webp?id=57" group-title="Tamasha-Live",pakistan-vs-sri-lanka-odi-series-2025
+https://cdn10lhr.tamashaweb.com:8087/jazzauth/PKvSL-ODI25-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI1IDk6Mzg6MTAgQU0maGFzaF92YWx1ZT03bmJJOUdQMW9laW9MRURybmZsZ3FRPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1762338775952.webp?id=22" group-title="Tamasha-Live",guard-breaker-2025-tekken-dojo-96
+https://cdn06khi.tamashaweb.com:8087/jazzauth/Guard-Breaker-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI1IDk6Mzg6MjEgQU0maGFzaF92YWx1ZT1ERmVsbmExVTM5L1BWclFRbTBCUkNRPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=27" group-title="Tamasha-Live",ptv-sports
+https://cdn12isb.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI1IDk6Mzg6MzEgQU0maGFzaF92YWx1ZT1DSnQydTQ1R1A5QnllUzJhYVRvUkVRPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=69" group-title="Tamasha-Live",eurosport
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI1IDk6Mzg6NDEgQU0maGFzaF92YWx1ZT1yY3pqNWh0Mk1DVzU5OW1OVGN0S3FBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Eurosport-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=19" group-title="Tamasha-Live",ten-sports-live
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDI1IDk6Mzg6NTIgQU0maGFzaF92YWx1ZT1SckJKSnJHcnBJSGErYzRQb1BNaEhBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Tensports-abr/playlist.m3u8
