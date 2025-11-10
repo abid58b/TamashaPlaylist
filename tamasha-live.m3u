@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=42" group-title="Tamasha-Live",ptv-sports
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyNSA1OjEzOjM4IFBNJmhhc2hfdmFsdWU9anlTNmpDYmpFNVFTSEFhTjQ5L0x5QT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=78" group-title="Tamasha-Live",eurosport
-https://cdn12isb.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyNSA1OjEzOjQ3IFBNJmhhc2hfdmFsdWU9akdlWmVYc0hjVWFYWEw4Rld6czRBUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=19" group-title="Tamasha-Live",ten-sports-live
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyNSA1OjEzOjU3IFBNJmhhc2hfdmFsdWU9a1ZPRTNSUTJhbHVSb3RhblQrWDFFZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Tensports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=73" group-title="Tamasha-Live",ptv-sports
+https://cdn12isb.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyNSA5OjEzOjQ4IFBNJmhhc2hfdmFsdWU9YktTeDV6UE0vZ0I0a2piZVdiUG9RZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=54" group-title="Tamasha-Live",eurosport
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyNSA5OjEzOjU5IFBNJmhhc2hfdmFsdWU9eWp4ZURyMzQ2aE1mclViSFhBYW1Tdz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=98" group-title="Tamasha-Live",ten-sports-live
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyNSA5OjE0OjExIFBNJmhhc2hfdmFsdWU9WTlrcG1sRDhIdis0REt6VkdkcUFjdz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Tensports-abr/playlist.m3u8
