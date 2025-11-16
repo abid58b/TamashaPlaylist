@@ -2,9 +2,9 @@
     "metadata": {
         "Author": "Abid",
         "generation_date": "2025-11-16",
-        "generation_time": "03:15:04 PM",
+        "generation_time": "03:31:48 PM",
         "stats": {
-            "total_streams_found": 4
+            "total_streams_found": 5
         }
     },
     "events": [
@@ -12,31 +12,31 @@
             "title": "jazz-tapeball-clash-season-2",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1763258389363.webp?id=94",
             "event_url": "https://tamashaweb.com/jazz-tapeball-clash-season-2",
-            "stream_url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/JTCS2-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNSAzOjEzOjE4IFBNJmhhc2hfdmFsdWU9UVR6U3dGUnpRQTV0NVdEN051eWp0Zz09JnZhbGlkbWludXRlcz02MA%3D%3D"
+            "stream_url": "https://cdn24lhr.tamashaweb.com:8087/jazzauth/JTCS2-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNSAzOjI5OjU4IFBNJmhhc2hfdmFsdWU9d0RTTEVtRjB2S0FnVzZqMW5YUkxyZz09JnZhbGlkbWludXRlcz02MA%3D%3D"
         },
         {
             "title": "pakistan-vs-sri-lanka-odi-series-2025",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1763163362506.webp?id=38",
             "event_url": "https://tamashaweb.com/pakistan-vs-sri-lanka-odi-series-2025",
-            "stream_url": ""
+            "stream_url": "https://tencentcdn2.tamashaweb.com/v1/0192bed4e5f11ea506ec1afe4c6abd/0192bed664ae1ea506491378f278b7/Tmshsrtmain.m3u8?"
         },
         {
             "title": "asia-cup-rising-stars-2025",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1763257997040.webp?id=100",
             "event_url": "https://tamashaweb.com/asia-cup-rising-stars-2025",
-            "stream_url": ""
+            "stream_url": "https://tencentcdn5.tamashaweb.com/v1/0196159eeff41eb4611d121c76c781/0196159f51bb1ea5064913eb2a83ea/TMSH_U1_WEB.m3u8?"
         },
         {
             "title": "asia-cup-rising-stars-2025-b",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1763257914283.webp?id=96",
             "event_url": "https://tamashaweb.com/asia-cup-rising-stars-2025-b",
-            "stream_url": "https://cdn02isb-n.tamashaweb.com:8087/jazzauth/Asia-Cup-Rising-Stars-B-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNSAzOjE0OjEzIFBNJmhhc2hfdmFsdWU9K1c1Rlg5S3BudmFKeERSRTZpWExSZz09JnZhbGlkbWludXRlcz02MA%3D%3D"
+            "stream_url": "https://cdn08khi.tamashaweb.com:8087/jazzauth/Asia-Cup-Rising-Stars-B-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNSAzOjMwOjQ3IFBNJmhhc2hfdmFsdWU9SjQvR0tySTc0K2VidHB4STJ5a09idz09JnZhbGlkbWludXRlcz02MA%3D%3D"
         },
         {
             "title": "ptv-sports",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=97",
             "event_url": "https://tamashaweb.com/ptv-sports",
-            "stream_url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNSAzOjE0OjMyIFBNJmhhc2hfdmFsdWU9TnllNDRXNk0xZSs4SWNyT2xVVEpadz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8"
+            "stream_url": ""
         },
         {
             "title": "eurosport",
@@ -48,7 +48,7 @@
             "title": "ten-sports-live",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=52",
             "event_url": "https://tamashaweb.com/ten-sports-live",
-            "stream_url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNSAzOjE1OjAxIFBNJmhhc2hfdmFsdWU9Qkpyd1dWVlJWRHN0NFh4SmhEYURHZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Tensports-abr/playlist.m3u8"
+            "stream_url": "https://cdn02khi.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNSAzOjMxOjQ1IFBNJmhhc2hfdmFsdWU9bEplSTYwODRiODV2UjV4Y1phNzhWQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Tensports-abr/playlist.m3u8"
         }
     ]
 }
