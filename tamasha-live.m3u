@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764091852324.webp?id=85" group-title="Tamasha-Live",pakistan-t20i-tri-series-2025
-https://cdn10lhr.tamashaweb.com:8087/jazzauth/Paktri-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSAxOjQ2OjUyIFBNJmhhc2hfdmFsdWU9WUJUUzY5RUVXOC9uSEw4Tnc4TEhrdz09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1763975515651.webp?id=73" group-title="Tamasha-Live",cas-serena-hotels-international-squash-championship
-https://cdn04isb-n.tamashaweb.com:8087/jazzauth/CAS-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSAxOjQ3OjAxIFBNJmhhc2hfdmFsdWU9cW9xcHpCTTBvcXJiOWxpOFpCMDAwQT09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=62" group-title="Tamasha-Live",ptv-sports
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSAxOjQ3OjEwIFBNJmhhc2hfdmFsdWU9MmVJK0JLL01Uc3VxTkU5ZVFRRjRuZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=77" group-title="Tamasha-Live",eurosport
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSAxOjQ3OjE5IFBNJmhhc2hfdmFsdWU9VEZCU0Y0WDlObGUzUFFlcWlrWnpGQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=63" group-title="Tamasha-Live",ten-sports-live
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSAxOjQ3OjI4IFBNJmhhc2hfdmFsdWU9NDdhV1pQSkQ0TGZJZ1NsUDJuc1ZJdz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Tensports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764091852324.webp?id=70" group-title="Tamasha-Live",pakistan-t20i-tri-series-2025
+https://cdn03isb-n.tamashaweb.com:8087/jazzauth/Paktri-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSA2OjE4OjE3IFBNJmhhc2hfdmFsdWU9NWpPTzNLT2pIRzFWNk1nZ1dJWnE5dz09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1763975515651.webp?id=18" group-title="Tamasha-Live",cas-serena-hotels-international-squash-championship
+https://cdn12lhr.tamashaweb.com:8087/jazzauth/CAS-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSA2OjE4OjI4IFBNJmhhc2hfdmFsdWU9SHRoNDYxZ0swQ1JtUkhHOU1pMkk3UT09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=58" group-title="Tamasha-Live",ptv-sports
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSA2OjE4OjM4IFBNJmhhc2hfdmFsdWU9djhoZCt6S0N3K1RQeXFsemFIVjNwUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=98" group-title="Tamasha-Live",eurosport
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSA2OjE4OjQ4IFBNJmhhc2hfdmFsdWU9M2Y3b0Q5ZVcvc0lMNk5LeXhUYU1MUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/poster/ten-sports-hd-poster.webp?id=64" group-title="Tamasha-Live",ten-sports-live
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Tensports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyNSA2OjE4OjU4IFBNJmhhc2hfdmFsdWU9SjZtNk9QK2taL3NiYWhoKzZBZnBDZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Tensports-abr/playlist.m3u8
