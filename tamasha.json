@@ -2,7 +2,7 @@
     "metadata": {
         "Author": "Abid",
         "generation_date": "2025-12-07",
-        "generation_time": "05:14:54 AM",
+        "generation_time": "05:33:24 AM",
         "stats": {
             "total_streams_found": 3
         }
@@ -12,19 +12,19 @@
             "title": "international-league-t20",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=81",
             "event_url": "https://tamashaweb.com/international-league-t20",
-            "stream_url": "https://cdn13lhr.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDI1IDU6MTQ6MzAgQU0maGFzaF92YWx1ZT0vMWw5NWFJY1dubGhVa3FpaERiaEJRPT0mdmFsaWRtaW51dGVzPTYw"
+            "stream_url": "https://cdn16lhr.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDI1IDU6MzI6NTkgQU0maGFzaF92YWx1ZT1VdVNFZEZjQWtwYTBGUTNVZkZQd253PT0mdmFsaWRtaW51dGVzPTYw"
         },
         {
             "title": "ptv-sports",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=98",
             "event_url": "https://tamashaweb.com/ptv-sports",
-            "stream_url": "https://cdn21lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDI1IDU6MTQ6NDAgQU0maGFzaF92YWx1ZT1aM3UvalJVZ2lTakwyZit6MmI1K3lRPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVSports-abr/playlist.m3u8"
+            "stream_url": "https://cdn21lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDI1IDU6MzM6MTAgQU0maGFzaF92YWx1ZT05d0pubVU4ZENxazdJRXJSbDlqUWlnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVSports-abr/playlist.m3u8"
         },
         {
             "title": "eurosport",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=40",
             "event_url": "https://tamashaweb.com/eurosport",
-            "stream_url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDI1IDU6MTQ6NTEgQU0maGFzaF92YWx1ZT02QklKUHl4OGtTc2NyU3NJZDVGWVZ3PT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Eurosport-abr/playlist.m3u8"
+            "stream_url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDI1IDU6MzM6MjEgQU0maGFzaF92YWx1ZT11eXUrS1pqQ0pXbjlTZlhPUWQ4dkxBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Eurosport-abr/playlist.m3u8"
         }
     ]
 }
