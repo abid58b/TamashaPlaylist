@@ -1,32 +1,38 @@
 {
   "Author": "Abid",
   "For Update": "DM me on Telegram @MAbidOfficial",
-  "last_update": "02-12-2025 : 17:44:29",
-  "total_links": 4,
+  "last_update": "10-12-2025 : 16:45:47",
+  "total_links": 5,
   "events": [
     {
-      "title": "english-premier-league",
-      "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764564483354.webp?id=11",
-      "event_url": "https://tamashaweb.com/english-premier-league",
-      "stream_url": "https://cdn04isb-n.tamashaweb.com:8087/jazzauth/EPL-A-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDI1IDEyOjQ0OjE3IFBNJmhhc2hfdmFsdWU9VTFYUEhhNldUeW5EZE91TjVZamNxQT09JnZhbGlkbWludXRlcz02MA%3D%3D"
+      "title": "acc-under19s-asia-cup-2025",
+      "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1765280332898.webp?id=80",
+      "event_url": "https://tamashaweb.com/acc-under19s-asia-cup-2025",
+      "stream_url": "https://cdn06khi-n.tamashaweb.com:8087/jazzauth/ACC-19-1-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyNSAxMTo0NToyNCBBTSZoYXNoX3ZhbHVlPU12TFlpR3hUVmRsRGFsdnpSRTBzaVE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D"
+    },
+    {
+      "title": "jazz-tapeball-clash-season-3",
+      "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1765205355906.webp?id=99",
+      "event_url": "https://tamashaweb.com/jazz-tapeball-clash-season-3",
+      "stream_url": "https://cdn07khi-n.tamashaweb.com:8087/jazzauth/JTCS3-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyNSAxMTo0NTozMCBBTSZoYXNoX3ZhbHVlPTBVcEtJYXh3cjhYdGJZcHVGdDE5Q0E9PSZ2YWxpZG1pbnV0ZXM9NjA%3D"
     },
     {
       "title": "international-league-t20",
-      "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=12",
+      "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=23",
       "event_url": "https://tamashaweb.com/international-league-t20",
-      "stream_url": "https://cdn02khi-n.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDI1IDEyOjQ0OjIxIFBNJmhhc2hfdmFsdWU9cHNqeTRjcTFGOWNUOUZBWWVMYVZGUT09JnZhbGlkbWludXRlcz02MA%3D%3D"
+      "stream_url": "https://cdn04fsd-n.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyNSAxMTo0NTozNSBBTSZoYXNoX3ZhbHVlPWNjdUJ5T24wL2J0ZDJnRUFMeVFhblE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D"
     },
     {
       "title": "ptv-sports",
-      "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=74",
+      "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=62",
       "event_url": "https://tamashaweb.com/ptv-sports",
-      "stream_url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDI1IDEyOjQ0OjI1IFBNJmhhc2hfdmFsdWU9RjFoNlBZSEdDZW8vd0kreTVTR3hTQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8"
+      "stream_url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyNSAxMTo0NTo0MCBBTSZoYXNoX3ZhbHVlPW5lb3UwVm52N1gxUktMUEVLMUxaV3c9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8"
     },
     {
       "title": "eurosport",
-      "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=94",
+      "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=17",
       "event_url": "https://tamashaweb.com/eurosport",
-      "stream_url": "https://cdn24lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDI1IDEyOjQ0OjI5IFBNJmhhc2hfdmFsdWU9T2F5SWZ1NUNjZFB6eVBLakpKQVNPUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8"
+      "stream_url": "https://cdn21lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyNSAxMTo0NTo0NSBBTSZoYXNoX3ZhbHVlPXBUaDdKS0xlQklZMUZEaWtnN09mZkE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8"
     }
   ]
 }
