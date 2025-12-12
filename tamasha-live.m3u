@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1765433425299.webp?id=86" group-title="Tamasha-Live",acc-under19s-asia-cup-2025
-https://cdn01fsd-n.tamashaweb.com:8087/jazzauth/ACC-19-1-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNSAxOjA3OjQ5IEFNJmhhc2hfdmFsdWU9UUtkaFE0TUc0aDFHVFhOdDNUQ3F5dz09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1765433599861.webp?id=46" group-title="Tamasha-Live",acc-under19s-asia-cup-2025b
-https://cdn20lhr.tamashaweb.com:8087/jazzauth/ACC-19-2-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNSAxOjA4OjA0IEFNJmhhc2hfdmFsdWU9K2llcnJMTDdXbGg4N1loamZXcmVSQT09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1765205355906.webp?id=15" group-title="Tamasha-Live",jazz-tapeball-clash-season-3
-https://cdn06khi-n.tamashaweb.com:8087/jazzauth/JTCS3-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNSAxOjA4OjE4IEFNJmhhc2hfdmFsdWU9UURPRHp5cEFpRVdtTHczblB1SVpuUT09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=37" group-title="Tamasha-Live",international-league-t20
-https://cdn03isb-n.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNSAxOjA4OjMzIEFNJmhhc2hfdmFsdWU9U01qL05iZ1ZwRUdpa2VUemhmZ0VOdz09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=45" group-title="Tamasha-Live",ptv-sports
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNSAxOjA4OjQ4IEFNJmhhc2hfdmFsdWU9TmNCMml3a1VrSlYvSjB4Q0NiVnd4dz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=54" group-title="Tamasha-Live",eurosport
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNSAxOjA5OjA1IEFNJmhhc2hfdmFsdWU9OWVvRlZQTHhiV3dqTHdDRStvdzRkUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1765433425299.webp?id=13" group-title="Tamasha-Live",acc-under19s-asia-cup-2025
+https://cdn15lhr.tamashaweb.com:8087/jazzauth/ACC-19-1-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNSAzOjAwOjEyIEFNJmhhc2hfdmFsdWU9eGY5QXlKVVg4Y0pmcnJxeDdzYTJwUT09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1765433599861.webp?id=44" group-title="Tamasha-Live",acc-under19s-asia-cup-2025b
+https://cdn03isb-n.tamashaweb.com:8087/jazzauth/ACC-19-2-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNSAzOjAwOjI3IEFNJmhhc2hfdmFsdWU9a3d3RWdGc01kWlcrQys3aENvUWxBUT09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1765205355906.webp?id=60" group-title="Tamasha-Live",jazz-tapeball-clash-season-3
+https://cdn08khi.tamashaweb.com:8087/jazzauth/JTCS3-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNSAzOjAwOjQ0IEFNJmhhc2hfdmFsdWU9cUhFVTU3dDRydlJ2SmU3OVhkNW1LZz09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=20" group-title="Tamasha-Live",international-league-t20
+https://cdn03fsd-n.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNSAzOjAwOjU5IEFNJmhhc2hfdmFsdWU9Q1B5Um43U2NTYlRrZnZCdlJFS3ZoZz09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=40" group-title="Tamasha-Live",ptv-sports
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNSAzOjAxOjE0IEFNJmhhc2hfdmFsdWU9cC9ZMXZ2dmF1eS94dFFXdHZHK2NZdz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=62" group-title="Tamasha-Live",eurosport
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTIvMjAyNSAzOjAxOjMwIEFNJmhhc2hfdmFsdWU9ZDJQTUFjRkU1eVM0d3RnMUFVNmtxUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
