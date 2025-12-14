@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1765723128651.webp?id=99" group-title="Tamasha-Live",acc-under19s-asia-cup-2025
-https://cdn17lhr.tamashaweb.com:8087/jazzauth/ACC-19-1-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA1OjQyOjU4IFBNJmhhc2hfdmFsdWU9ZnRESnlUQmJINFNCRStIeDRUdmw4Zz09JnZhbGlkbWludXRlcz02MA%3D%3D
+https://cdn03fsd-n.tamashaweb.com:8087/jazzauth/ACC-19-1-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA4OjM0OjU5IFBNJmhhc2hfdmFsdWU9Vk5HRHVPT1llSkQwVnkxRHdsM0Q5Zz09JnZhbGlkbWludXRlcz02MA%3D%3D
 #EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1765723177678.webp?id=43" group-title="Tamasha-Live",acc-under19s-asia-cup-2025b
-https://cdn08khi.tamashaweb.com:8087/jazzauth/ACC-19-2-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA1OjQzOjExIFBNJmhhc2hfdmFsdWU9MEtpZkhhU0t5dXhTSFBabnBWNHpUdz09JnZhbGlkbWludXRlcz02MA%3D%3D
+https://cdn07khi-n.tamashaweb.com:8087/jazzauth/ACC-19-2-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA4OjM1OjEwIFBNJmhhc2hfdmFsdWU9TEVTdGVrZlR2UGgxM3BvZUtTMWVBUT09JnZhbGlkbWludXRlcz02MA%3D%3D
 #EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1765205355906.webp?id=48" group-title="Tamasha-Live",jazz-tapeball-clash-season-3
-https://cdn03isb-n.tamashaweb.com:8087/jazzauth/JTCS3-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA1OjQzOjI0IFBNJmhhc2hfdmFsdWU9Ukc3Ujdod0JqSlNoTngzb1g3TU1TZz09JnZhbGlkbWludXRlcz02MA%3D%3D
+https://cdn10khi.tamashaweb.com:8087/jazzauth/JTCS3-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA4OjM1OjIyIFBNJmhhc2hfdmFsdWU9TS9YS1J2WXovN0pwakNnVHFLTmYxUT09JnZhbGlkbWludXRlcz02MA%3D%3D
 #EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=26" group-title="Tamasha-Live",international-league-t20
-https://cdn03isb-n.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA1OjQzOjM5IFBNJmhhc2hfdmFsdWU9Y3NmUCtzT1dvaEwwenRGc2RhZUFaQT09JnZhbGlkbWludXRlcz02MA%3D%3D
+https://cdn04fsd-n.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA4OjM1OjM0IFBNJmhhc2hfdmFsdWU9M1hWUldVNTYwTXhscXV6VnJxT1lXQT09JnZhbGlkbWludXRlcz02MA%3D%3D
 #EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764675703816.webp?id=18" group-title="Tamasha-Live",international-league-t20-b
-https://cdn10khi.tamashaweb.com:8087/jazzauth/ILT20-B-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA1OjQzOjU0IFBNJmhhc2hfdmFsdWU9bjVjYStNR3JqL3A5UkUyd3VmKzVDUT09JnZhbGlkbWludXRlcz02MA%3D%3D
+https://cdn10lhr.tamashaweb.com:8087/jazzauth/ILT20-B-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA4OjM1OjQ0IFBNJmhhc2hfdmFsdWU9MFhLNFJmNVQ0RjYxYkN5NE93S2JEQT09JnZhbGlkbWludXRlcz02MA%3D%3D
 #EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=19" group-title="Tamasha-Live",ptv-sports
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA1OjQ0OjA4IFBNJmhhc2hfdmFsdWU9QzBtd1hsVFFIdnNpSG0vZDNOdFhCdz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA4OjM1OjU1IFBNJmhhc2hfdmFsdWU9TnpKeFJJckJva3JQTnZwRW1CZy94UT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=72" group-title="Tamasha-Live",eurosport
-https://cdn24lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA1OjQ0OjIxIFBNJmhhc2hfdmFsdWU9TFFPK1Y2UlBBclljMUVZNmFXS0Nydz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyNSA4OjM2OjA2IFBNJmhhc2hfdmFsdWU9S0xHSFg1UmNoWDBlU3hCcmVZaTU4QT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
