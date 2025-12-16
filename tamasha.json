@@ -2,9 +2,9 @@
     "metadata": {
         "Author": "Abid",
         "generation_date": "2025-12-16",
-        "generation_time": "07:54:01 AM",
+        "generation_time": "08:24:12 AM",
         "stats": {
-            "total_streams_found": 2
+            "total_streams_found": 0
         }
     },
     "events": [
@@ -18,7 +18,7 @@
             "title": "acc-under19s-asia-cup-2025b",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1765805257127.webp?id=45",
             "event_url": "https://tamashaweb.com/acc-under19s-asia-cup-2025b",
-            "stream_url": "https://cdn13lhr.tamashaweb.com:8087/jazzauth/ACC-19-2-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyNSA3OjUyOjQ1IEFNJmhhc2hfdmFsdWU9SDc3aXR0WDRubmxaWk55SFhIcTJ5dz09JnZhbGlkbWludXRlcz02MA%3D%3D"
+            "stream_url": ""
         },
         {
             "title": "international-league-t20",
@@ -30,7 +30,7 @@
             "title": "ptv-sports",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=41",
             "event_url": "https://tamashaweb.com/ptv-sports",
-            "stream_url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyNSA3OjUzOjI4IEFNJmhhc2hfdmFsdWU9c3JvZjUvT1F6a01ya3VOSGEyV01EQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8"
+            "stream_url": ""
         },
         {
             "title": "eurosport",
