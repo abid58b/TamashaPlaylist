@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1765984401716.webp?id=41" group-title="Tamasha-Live",acc-under19s-asia-cup-2025
-https://cdn10khi-n.tamashaweb.com:8087/jazzauth/ACC-19-1-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSA3OjE3OjQ2IEFNJmhhc2hfdmFsdWU9azJpQ2lnK2ZDem5Ebmhha2F0V25hQT09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1765984461885.webp?id=35" group-title="Tamasha-Live",acc-under19s-asia-cup-2025b
-https://cdn10khi-n.tamashaweb.com:8087/jazzauth/ACC-19-2-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSA3OjE3OjU4IEFNJmhhc2hfdmFsdWU9T1MvYXduM084VWNHd3Y5bVFzVFJpdz09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=88" group-title="Tamasha-Live",international-league-t20
-https://cdn19lhr.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSA3OjE4OjA5IEFNJmhhc2hfdmFsdWU9QXpRYVoxSVpabVk3aCt6QTZJNE5Xdz09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=25" group-title="Tamasha-Live",ptv-sports
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSA3OjE4OjIwIEFNJmhhc2hfdmFsdWU9dVJiaXhxTUxrRTdzV3hTMVd1VFNxQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=56" group-title="Tamasha-Live",eurosport
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSA3OjE4OjMxIEFNJmhhc2hfdmFsdWU9bUk1WkhScUd1bnJScUpIb3RSWUU5dz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1765984401716.webp?id=78" group-title="Tamasha-Live",acc-under19s-asia-cup-2025
+https://cdn09khi-n.tamashaweb.com:8087/jazzauth/ACC-19-1-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSAxOjA0OjI1IEFNJmhhc2hfdmFsdWU9K3BkZnNKdUJYbWNPKzFTdytKY3Vvdz09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1765984461885.webp?id=63" group-title="Tamasha-Live",acc-under19s-asia-cup-2025b
+https://cdn03isb-n.tamashaweb.com:8087/jazzauth/ACC-19-2-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSAxOjA0OjM4IEFNJmhhc2hfdmFsdWU9Qmp2ZlNwNzlZODFnOXlLSjFFcUJ1dz09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=37" group-title="Tamasha-Live",international-league-t20
+https://cdn14lhr.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSAxOjA0OjUxIEFNJmhhc2hfdmFsdWU9cE1IVFNWc3dxZE9RcWVDU2VYWk5pUT09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=37" group-title="Tamasha-Live",ptv-sports
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSAxOjA1OjA0IEFNJmhhc2hfdmFsdWU9TU9pZnhRcC9YZ3A5ZExib1N1S3h5QT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=29" group-title="Tamasha-Live",eurosport
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAyNSAxOjA1OjE3IEFNJmhhc2hfdmFsdWU9Q2lSbEhQK1daMTlNNkdCSkR6dHdadz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
