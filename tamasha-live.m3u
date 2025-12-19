@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1766144412856.webp?id=54" group-title="Tamasha-Live",pcb-ghani-class-school-cricket-final
-https://cdn13lhr.tamashaweb.com:8087/jazzauth/PCB-Ghani-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyNSAyOjU0OjE0IFBNJmhhc2hfdmFsdWU9TU9aUG4zYTB2czVxZ0V6Y29yd2R6UT09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1766051657055.webp?id=12" group-title="Tamasha-Live",acc-under19s-asia-cup-2025b
-https://cdn02lhr-n.tamashaweb.com:8087/jazzauth/ACC-19-2-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyNSAyOjU0OjQ1IFBNJmhhc2hfdmFsdWU9VGNVY2hhTHFYSGRKY3R4YVRad1Uxdz09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1766129715779.webp?id=99" group-title="Tamasha-Live",english-premier-league-b
-https://cdn04isb-n.tamashaweb.com:8087/jazzauth/EPL-B-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyNSAyOjU0OjU2IFBNJmhhc2hfdmFsdWU9RW1JWFdZU3NIN1ZxaytSdFJIUk1Jdz09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1766129824334.webp?id=56" group-title="Tamasha-Live",english-premier-league-c
-https://cdn01fsd-n.tamashaweb.com:8087/jazzauth/EPL-C-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyNSAyOjU1OjEwIFBNJmhhc2hfdmFsdWU9cXgwbGZRU21CcXFNemM0bEZtU3dWUT09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1766129846526.webp?id=76" group-title="Tamasha-Live",english-premier-league-d
-https://cdn03lhr-n.tamashaweb.com:8087/jazzauth/EPL-D-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyNSAyOjU1OjIxIFBNJmhhc2hfdmFsdWU9ZCtRRytsSlBCanFQaHhCYTZCWjFrUT09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=100" group-title="Tamasha-Live",international-league-t20
-https://cdn08khi.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyNSAyOjU1OjMyIFBNJmhhc2hfdmFsdWU9NUd0TUNVcm1ua1dmeHFNVkovQUg4UT09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1766144412856.webp?id=77" group-title="Tamasha-Live",pcb-ghani-class-school-cricket-final
+https://cdn05khi.tamashaweb.com:8087/jazzauth/PCB-Ghani-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyNSAyOjQwOjI1IFBNJmhhc2hfdmFsdWU9WjNLMDhQeFlXUG0xcS9SUnNHOUIwdz09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1766051616393.webp?id=42" group-title="Tamasha-Live",acc-under19s-asia-cup-2025
+https://cdn13lhr.tamashaweb.com:8087/jazzauth/ACC-19-1-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyNSAyOjQwOjM4IFBNJmhhc2hfdmFsdWU9M01nUGtqUTg3NXFXWkV6R3NjSUJ1Zz09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1766051657055.webp?id=25" group-title="Tamasha-Live",acc-under19s-asia-cup-2025b
+https://cdn16lhr.tamashaweb.com:8087/jazzauth/ACC-19-2-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyNSAyOjQwOjUyIFBNJmhhc2hfdmFsdWU9djdsL3d4OUdYN2lqSUpIdFNFZDJOQT09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1766129715779.webp?id=74" group-title="Tamasha-Live",english-premier-league-b
+https://cdn13lhr.tamashaweb.com:8087/jazzauth/EPL-B-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyNSAyOjQxOjA1IFBNJmhhc2hfdmFsdWU9bXVoTkZ5Q2YvYk1tT3Z5UFR0RnlPdz09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1766129824334.webp?id=78" group-title="Tamasha-Live",english-premier-league-c
+https://cdn02lhr-n.tamashaweb.com:8087/jazzauth/EPL-C-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyNSAyOjQxOjE4IFBNJmhhc2hfdmFsdWU9KzM1OWhaYUVVZG4rZjdWSU14bi9uQT09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1766129846526.webp?id=87" group-title="Tamasha-Live",english-premier-league-d
+https://cdn15lhr.tamashaweb.com:8087/jazzauth/EPL-D-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyNSAyOjQxOjMyIFBNJmhhc2hfdmFsdWU9WUhSa1B0WklKMnJiWTVwMTZjSThRdz09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=56" group-title="Tamasha-Live",international-league-t20
+https://cdn01fsd-n.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAyNSAyOjQxOjQ0IFBNJmhhc2hfdmFsdWU9VWN1RS9GbXNVRWdPUHFxOUNJb0VWZz09JnZhbGlkbWludXRlcz02MA%3D%3D
