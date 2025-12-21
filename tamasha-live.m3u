@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=54" group-title="Tamasha-Live",international-league-t20
-https://cdn08khi-n.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyNSA5OjE2OjA1IEFNJmhhc2hfdmFsdWU9d0lQaEpNWkxhOXFtWWNmbGtiRC81dz09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764675703816.webp?id=89" group-title="Tamasha-Live",international-league-t20-b
-https://cdn02lhr-n.tamashaweb.com:8087/jazzauth/ILT20-B-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyNSA5OjE2OjE4IEFNJmhhc2hfdmFsdWU9QzdEVnNqTHdtZXM1djQwY3Zuc1ZXUT09JnZhbGlkbWludXRlcz02MA%3D%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=96" group-title="Tamasha-Live",international-league-t20
+https://cdn01khi-n.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjEvMjAyNSAxOjUxOjU1IFBNJmhhc2hfdmFsdWU9STFHT2Z3R3NlOSt3NEViTHEyRWluUT09JnZhbGlkbWludXRlcz02MA%3D%3D
