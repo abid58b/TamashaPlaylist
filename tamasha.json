@@ -2,7 +2,7 @@
     "metadata": {
         "Author": "Abid",
         "generation_date": "2025-12-22",
-        "generation_time": "02:16:54 PM",
+        "generation_time": "02:40:31 PM",
         "stats": {
             "total_streams_found": 1
         }
@@ -10,15 +10,15 @@
     "events": [
         {
             "title": "international-league-t20",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=77",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=72",
             "event_url": "https://tamashaweb.com/international-league-t20",
-            "stream_url": "https://cdn03lhr-n.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSAyOjE1OjUxIFBNJmhhc2hfdmFsdWU9bGJCN2tzbmhIS0VnZTlvWHZpaE0ydz09JnZhbGlkbWludXRlcz02MA%3D%3D"
+            "stream_url": ""
         },
         {
             "title": "ptv-sports",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=84",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=38",
             "event_url": "https://tamashaweb.com/ptv-sports",
-            "stream_url": ""
+            "stream_url": "https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSAyOjM5OjUzIFBNJmhhc2hfdmFsdWU9VVZId0tKSW83dStOdTQ2ajlzYlNiZz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8"
         },
         {
             "title": "eurosport",
