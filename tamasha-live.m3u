@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=32" group-title="Tamasha-Live",international-league-t20
-https://cdn10khi-n.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSAzOjA4OjI1IEFNJmhhc2hfdmFsdWU9NExoTTZvbjhpejBOc1BmSnVGdlNjZz09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=32" group-title="Tamasha-Live",ptv-sports
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSAzOjA4OjM2IEFNJmhhc2hfdmFsdWU9UDBhN3RUbFF4K212NWtLOXo2YThhUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=63" group-title="Tamasha-Live",eurosport
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSAzOjA4OjQ4IEFNJmhhc2hfdmFsdWU9OTR2TTVlWk9qck9aZk9YWmFkeFp5dz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=77" group-title="Tamasha-Live",international-league-t20
+https://cdn02lhr-n.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSAxMTo0MjowOSBBTSZoYXNoX3ZhbHVlPUVLeWxaYVpjV3NHbjNQMC9aaUt5Ync9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=84" group-title="Tamasha-Live",ptv-sports
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSAxMTo0MjoyMyBBTSZoYXNoX3ZhbHVlPXRibUNhSUZ5cXBFK3VDM29HZFdOakE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=31" group-title="Tamasha-Live",eurosport
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAyNSAxMTo0MjozNiBBTSZoYXNoX3ZhbHVlPW4xWUVpZmxNVTRiaXlyNGpUMFR3NWc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
