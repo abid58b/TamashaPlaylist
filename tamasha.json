@@ -2,27 +2,27 @@
     "metadata": {
         "Author": "Abid",
         "generation_date": "2025-12-24",
-        "generation_time": "05:55:56 AM",
+        "generation_time": "06:25:07 AM",
         "stats": {
-            "total_streams_found": 2
+            "total_streams_found": 1
         }
     },
     "events": [
         {
             "title": "international-league-t20",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=52",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=63",
             "event_url": "https://tamashaweb.com/international-league-t20",
-            "stream_url": "https://cdn03isb-n.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAyNSA1OjU0OjQzIEFNJmhhc2hfdmFsdWU9L3U1YTlxbUJsSy93QVVOd2t6UzlIZz09JnZhbGlkbWludXRlcz02MA%3D%3D"
+            "stream_url": ""
         },
         {
             "title": "ptv-sports",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=52",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=86",
             "event_url": "https://tamashaweb.com/ptv-sports",
-            "stream_url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAyNSA1OjU1OjI0IEFNJmhhc2hfdmFsdWU9K0JSM1lTay9zTCtYVXErZ2gvdXR5UT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8"
+            "stream_url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAyNSA2OjI0OjM1IEFNJmhhc2hfdmFsdWU9WWJrNFYzVGhJOFBxaDFCSStmQ1hGQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8"
         },
         {
             "title": "eurosport",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=48",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=96",
             "event_url": "https://tamashaweb.com/eurosport",
             "stream_url": ""
         }
