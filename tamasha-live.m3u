@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1766659225202.webp?id=45" group-title="Tamasha-Live",bangladesh-premier-league
-https://cdn03lhr-n.tamashaweb.com:8087/jazzauth/BPL-AVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSAzOjUwOjUxIFBNJmhhc2hfdmFsdWU9SGMxSGp4aGlYRUVVZFBOZ29NRDBaUT09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=87" group-title="Tamasha-Live",international-league-t20
-https://cdn03isb-n.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSAzOjUxOjA3IFBNJmhhc2hfdmFsdWU9ZUN3K2RJaGVSUXdRR0E5eUNCKy9ZQT09JnZhbGlkbWludXRlcz02MA%3D%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=19" group-title="Tamasha-Live",ptv-sports
-https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSAzOjUxOjIzIFBNJmhhc2hfdmFsdWU9YlpOaE5MUy9lQldYT1BsYk84VFZwUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=94" group-title="Tamasha-Live",eurosport
-https://cdn05khi.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSAzOjUxOjM4IFBNJmhhc2hfdmFsdWU9MFlSUi9GWUtIWVJMcnBCNkdhOU9oQT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1766659225202.webp?id=58" group-title="Tamasha-Live",bangladesh-premier-league
+https://cdn01khi-n.tamashaweb.com:8087/jazzauth/BPL-AVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSAxMjoyODozOCBQTSZoYXNoX3ZhbHVlPU1oT2VYRHR3Ri9kczhDYnFtZzMyN0E9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=41" group-title="Tamasha-Live",international-league-t20
+https://cdn18lhr.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSAxMjoyODo1MSBQTSZoYXNoX3ZhbHVlPS9SUm1nT3prNjRwL0RzNXpWLy9Rb1E9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=29" group-title="Tamasha-Live",ptv-sports
+https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSAxMjoyOTowNCBQTSZoYXNoX3ZhbHVlPThHUndlcFVpWlhVRGo3d1lmMVA4RFE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=46" group-title="Tamasha-Live",eurosport
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjUvMjAyNSAxMjoyOToxNyBQTSZoYXNoX3ZhbHVlPWJocHMzSkd2TWhjMm9kZkdta0RQOGc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
