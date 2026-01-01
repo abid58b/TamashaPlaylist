@@ -2,9 +2,9 @@
     "metadata": {
         "Author": "Abid",
         "generation_date": "2026-01-01",
-        "generation_time": "06:57:12 AM",
+        "generation_time": "07:19:32 AM",
         "stats": {
-            "total_streams_found": 4
+            "total_streams_found": 5
         }
     },
     "events": [
@@ -12,31 +12,31 @@
             "title": "bangladesh-premier-league",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1767082944427.webp?id=61",
             "event_url": "https://tamashaweb.com/bangladesh-premier-league",
-            "stream_url": ""
+            "stream_url": "https://cdn03isb-n.tamashaweb.com:8087/jazzauth/BPL-AVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjYgNzoxODo0MSBBTSZoYXNoX3ZhbHVlPWUwVjVCc2NXdWY5ejRZblBqb3pVcXc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D"
         },
         {
             "title": "rich-venus-karachi-open-2026",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1767165112556.webp?id=35",
             "event_url": "https://tamashaweb.com/rich-venus-karachi-open-2026",
-            "stream_url": "https://cdn03lhr-n.tamashaweb.com:8087/jazzauth/RVK-Open26-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjYgNjo1NjozMCBBTSZoYXNoX3ZhbHVlPU1vNjk5VmY0aHZkN01sZHMyYVpGSVE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D"
+            "stream_url": "https://cdn13lhr.tamashaweb.com:8087/jazzauth/RVK-Open26-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjYgNzoxODo1NCBBTSZoYXNoX3ZhbHVlPW1iUk5CV1BralRHRVZYRjJLQXNhQ1E9PSZ2YWxpZG1pbnV0ZXM9NjA%3D"
         },
         {
             "title": "international-league-t20",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1764327227106.webp?id=55",
             "event_url": "https://tamashaweb.com/international-league-t20",
-            "stream_url": "https://cdn06khi.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjYgNjo1Njo0NCBBTSZoYXNoX3ZhbHVlPWFCNnU0c3d1WHAwT0RVT3FDbHJYMmc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D"
+            "stream_url": "https://cdn01fsd-n.tamashaweb.com:8087/jazzauth/IntLT20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjYgNzoxOTowNiBBTSZoYXNoX3ZhbHVlPUFEYzh5aktDN0dIazdpVEhuVUhpTXc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D"
         },
         {
             "title": "ptv-sports",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=86",
             "event_url": "https://tamashaweb.com/ptv-sports",
-            "stream_url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjYgNjo1Njo1NyBBTSZoYXNoX3ZhbHVlPVRyQ1dBWlhKL0dwdGtVbTduT00wSnc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8"
+            "stream_url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjYgNzoxOToxNyBBTSZoYXNoX3ZhbHVlPXJKSWN4b0JpSEsvT0R3N1g2c2QweXc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8"
         },
         {
             "title": "eurosport",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=47",
             "event_url": "https://tamashaweb.com/eurosport",
-            "stream_url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjYgNjo1NzowOSBBTSZoYXNoX3ZhbHVlPWN3NzhzZS9ZeWgvM2hxeEFMdjYvSEE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8"
+            "stream_url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjYgNzoxOTozMCBBTSZoYXNoX3ZhbHVlPU1abkZEdUczWWd3QUJWdzUyaUFoZkE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8"
         }
     ]
 }
