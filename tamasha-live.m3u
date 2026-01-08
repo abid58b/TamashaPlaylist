@@ -1,7 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1767806566404.webp?id=37" group-title="Tamasha-Live",pakistan-tour-of-sri-lanka-t20-series-2026
-https://cdn03isb-n.tamashaweb.com:8087/jazzauth/Pak-Sri-T20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjYgMTowOTozMCBBTSZoYXNoX3ZhbHVlPW9DRFUyeWVYMG9jbnF5RU5KNUtubVE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1767165112556.webp?id=79" group-title="Tamasha-Live",rich-venus-karachi-open-2026
-https://cdn06khi.tamashaweb.com:8087/jazzauth/RVK-Open26-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjYgMToxMDozNCBBTSZoYXNoX3ZhbHVlPUtqK0tibkxEaDQ0VWo3VUNscWtXTFE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
-#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=19" group-title="Tamasha-Live",ptv-sports
-https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjYgMToxMDo0OSBBTSZoYXNoX3ZhbHVlPWRRNnNyRXR0TUgxL3d4am1RZktwUWc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1767806566404.webp?id=34" group-title="Tamasha-Live",pakistan-tour-of-sri-lanka-t20-series-2026
+https://cdn14lhr.tamashaweb.com:8087/jazzauth/Pak-Sri-T20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjYgODo1MzozMSBBTSZoYXNoX3ZhbHVlPUxzVy9sQjhlcFg1Tyt2ci9XazMzN0E9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1767835916153.webp?id=12" group-title="Tamasha-Live",psl-auction-2026
+https://cdn03lhr-n.tamashaweb.com:8087/jazzauth/PSL-Auction-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjYgODo1Mzo0NSBBTSZoYXNoX3ZhbHVlPUVYd3dsUzJrMzQ5TWh3a041R3RKSHc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1767630793002.webp?id=85" group-title="Tamasha-Live",icc-mens-t20-world-cup-2026
+https://cdn15lhr.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjYgODo1Mzo1OCBBTSZoYXNoX3ZhbHVlPThqUWhqNk15MXMvY3hYZm1tckFvdkE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1767082944427.webp?id=86" group-title="Tamasha-Live",bangladesh-premier-league
+https://cdn03isb-n.tamashaweb.com:8087/jazzauth/BPL-AVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjYgODo1NDoxMSBBTSZoYXNoX3ZhbHVlPXZOK1RuZ1pKMC85VkVEeUVTdURoUHc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1767165112556.webp?id=14" group-title="Tamasha-Live",rich-venus-karachi-open-2026
+https://cdn10lhr.tamashaweb.com:8087/jazzauth/RVK-Open26-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjYgODo1NDoyNiBBTSZoYXNoX3ZhbHVlPTJVYW1hOFkxa0ZUWTJSZ21NbVNqMGc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=39" group-title="Tamasha-Live",ptv-sports
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjYgODo1NDozOSBBTSZoYXNoX3ZhbHVlPVB2QWlMS0Vab0N5TjUzTkJneHFLUWc9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=79" group-title="Tamasha-Live",eurosport
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjYgODo1NDo1MiBBTSZoYXNoX3ZhbHVlPUhQdUZyWXRySm9CRE5uSXlQVjhIZ0E9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8
