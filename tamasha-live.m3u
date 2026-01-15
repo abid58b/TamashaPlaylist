@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1767082944427.webp?id=59" group-title="Tamasha-Live",bangladesh-premier-league
-https://cdn06khi.tamashaweb.com:8087/jazzauth/BPL-AVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI2IDE6MDc6NTkgQU0maGFzaF92YWx1ZT1XVzIrcmYrSnQrZzJIb25ZdVdsQ2JnPT0mdmFsaWRtaW51dGVzPTYw
+https://cdn06khi.tamashaweb.com:8087/jazzauth/BPL-AVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI2IDY6MjM6NTQgQU0maGFzaF92YWx1ZT1xMXRta2JhK3F1T3FGcytDUFp1clZnPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1767943387355.webp?id=10" group-title="Tamasha-Live",icc-mens-t20-world-cup-2026
-https://cdn01lhr-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI2IDE6MDg6MTEgQU0maGFzaF92YWx1ZT11ekNLemt6LzVZcEs5bjBCZ0NRajNBPT0mdmFsaWRtaW51dGVzPTYw
+https://cdn10khi-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI2IDY6MjQ6MDYgQU0maGFzaF92YWx1ZT1QZmhqMzVPM0ZQTGxKRmJyUzMwcHN3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=77" group-title="Tamasha-Live",ptv-sports
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI2IDE6MDg6MjIgQU0maGFzaF92YWx1ZT1EN2dNWmJPdXdqR3Z1dFVYSld0bGxnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVSports-abr/playlist.m3u8
+https://cdn05khi.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI2IDY6MjQ6MTcgQU0maGFzaF92YWx1ZT0rVGh4VTkwS05xUlh5Y0VQVjNFYUxRPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVSports-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=33" group-title="Tamasha-Live",eurosport
-https://cdn21lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI2IDE6MDg6MzQgQU0maGFzaF92YWx1ZT1zMkdhZ2J4WWtDM2s1eU9KUXZzRVBBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Eurosport-abr/playlist.m3u8
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI2IDY6MjQ6MzAgQU0maGFzaF92YWx1ZT1LVkJ2d1FRZHRpY0dqSmZXdFBsV053PT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/Eurosport-abr/playlist.m3u8
