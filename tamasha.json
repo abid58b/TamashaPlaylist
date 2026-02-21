@@ -2,7 +2,7 @@
     "metadata": {
         "Author": "Abid",
         "generation_date": "2026-02-21",
-        "generation_time": "11:17:45 AM",
+        "generation_time": "11:43:34 AM",
         "stats": {
             "total_streams_found": 4
         }
@@ -10,27 +10,27 @@
     "events": [
         {
             "title": "icc-mens-t20-world-cup-2026",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1771603422553.webp?id=23",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1771603422553.webp?id=22",
             "event_url": "https://tamashaweb.com/icc-mens-t20-world-cup-2026",
-            "stream_url": "https://cdn03lhr-n.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI2IDExOjE3OjIyIEFNJmhhc2hfdmFsdWU9QWVMTmFicTQxSkNWWnZ5RlV1Zi9Tdz09JnZhbGlkbWludXRlcz02MA%3D%3D"
+            "stream_url": "https://cdn12lhr.tamashaweb.com:8087/jazzauth/ICC-MEN-T20-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI2IDExOjQzOjEyIEFNJmhhc2hfdmFsdWU9aWlZTUdIYmUzSTdzRVorMGtsYWRMdz09JnZhbGlkbWludXRlcz02MA%3D%3D"
         },
         {
             "title": "the-dug-out-icc-t20-world-cup-2026",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1770989235932.webp?id=62",
             "event_url": "https://tamashaweb.com/the-dug-out-icc-t20-world-cup-2026",
-            "stream_url": "https://cdn03lhr-n.tamashaweb.com:8087/jazzauth/Dugout-WC2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI2IDExOjE3OjI5IEFNJmhhc2hfdmFsdWU9MitHeXJTTTh3TVBDTW9ZZ0xncDJwdz09JnZhbGlkbWludXRlcz02MA%3D%3D"
+            "stream_url": "https://cdn03isb-n.tamashaweb.com:8087/jazzauth/Dugout-WC2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI2IDExOjQzOjIwIEFNJmhhc2hfdmFsdWU9OGo2Z09jTjlEYXlseGp1d28wUXBhdz09JnZhbGlkbWludXRlcz02MA%3D%3D"
         },
         {
             "title": "ptv-sports",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=26",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=95",
             "event_url": "https://tamashaweb.com/ptv-sports",
-            "stream_url": "https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI2IDExOjE3OjM2IEFNJmhhc2hfdmFsdWU9YlR1U2UrbUFQUXZCVXBUcUNHUnRQUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8"
+            "stream_url": "https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI2IDExOjQzOjI2IEFNJmhhc2hfdmFsdWU9bGZqYW51R09WK0t2ZGtYcWY1Tm9CUT09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8"
         },
         {
             "title": "eurosport",
-            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=47",
+            "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1686912440.webp?id=53",
             "event_url": "https://tamashaweb.com/eurosport",
-            "stream_url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI2IDExOjE3OjQzIEFNJmhhc2hfdmFsdWU9L1k5NG1wZjcwYUFhRTBOUTZycmZqdz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8"
+            "stream_url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI2IDExOjQzOjMyIEFNJmhhc2hfdmFsdWU9YktqRWJqV1BVSW1GNjhtTHpscS81Zz09JnZhbGlkbWludXRlcz02MA%3D%3D:8087/jazzauth/Eurosport-abr/playlist.m3u8"
         }
     ]
 }
