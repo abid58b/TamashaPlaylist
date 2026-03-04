@@ -1,8 +1,8 @@
 {
     "metadata": {
         "Author": "Abid",
-        "generation_date": "2026-03-03",
-        "generation_time": "11:48:12 PM",
+        "generation_date": "2026-03-04",
+        "generation_time": "01:20:44 AM",
         "stats": {
             "total_streams_found": 1
         }
@@ -12,7 +12,7 @@
             "title": "ptv-sports",
             "image_url": "https://canvas.tamashaweb.com/jazzlive/uploads/channels/1750321952157.webp?id=53",
             "event_url": "https://tamashaweb.com/ptv-sports",
-            "stream_url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjYgMTE6NDg6MTAgUE0maGFzaF92YWx1ZT1ReGVnVGx2N2IwYytFaUdwbFFDbXpnPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVSports-abr/playlist.m3u8"
+            "stream_url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/PTVSports-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjYgMToyMDo0MiBBTSZoYXNoX3ZhbHVlPWdxYTN0NFNFMVlUSElsS2FQU1lKS0E9PSZ2YWxpZG1pbnV0ZXM9NjA%3D:8087/jazzauth/PTVSports-abr/playlist.m3u8"
         }
     ]
 }
